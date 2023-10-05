@@ -72,7 +72,8 @@ hasilnya.
 <p style="text-align: center; color: #ccd8e4;">
 ```
 * Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
-![gambar 3](gambar/Tugas3.png)
+![web2 3](https://github.com/hegarr/leb2web/assets/145521387/ff80cdc0-7d99-4eac-9711-86c5e461574b)
+
 ### Membuat CSS Eksternal
 * Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 ```python
