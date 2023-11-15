@@ -136,7 +136,7 @@ style_eksternal.css, tambahkan kode berikut.
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 ```python
 header{
-    background-image: url(d:/mdinalayubi/ayubi.jpg);
+    background-image: url(d:/hegarr/hegar.jpg);
     background-position: center center;
     background-size: 630px;
     background-repeat: no-repeat;
